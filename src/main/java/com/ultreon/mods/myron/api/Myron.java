@@ -1,4 +1,4 @@
-package dev.monarkhes.myron.api;
+package com.ultreon.mods.myron.api;
 
 import dev.monarkhes.myron.impl.mixin.BakedModelManagerAccessor;
 import net.fabricmc.fabric.api.renderer.v1.mesh.Mesh;

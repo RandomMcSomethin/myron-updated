@@ -1,4 +1,4 @@
-package dev.monarkhes.myron.impl.mixin;
+com.ultreon.mods.myron.impl.mixin;
 
 import dev.monarkhes.myron.impl.client.obj.ObjLoader;
 import net.fabricmc.api.EnvType;

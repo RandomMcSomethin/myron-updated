@@ -1,4 +1,4 @@
-package dev.monarkhes.myron.impl.client.model;
+com.ultreon.mods.myron.impl.client.model;
 
 import dev.monarkhes.myron.impl.client.Myron;
 import net.fabricmc.fabric.api.renderer.v1.mesh.Mesh;
