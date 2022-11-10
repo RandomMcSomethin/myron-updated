@@ -1,4 +1,4 @@
-com.ultreon.mods.myron.impl.mixin;
+package com.ultreon.mods.myron.impl.mixin;
 
 import net.minecraft.client.render.model.BakedModel;
 import net.minecraft.client.render.model.BakedModelManager;

@@ -1,4 +1,4 @@
-com.ultreon.mods.myron.impl.client.obj;
+package com.ultreon.mods.myron.impl.client.obj;
 
 import de.javagl.obj.Obj;
 import de.javagl.obj.ObjReader;

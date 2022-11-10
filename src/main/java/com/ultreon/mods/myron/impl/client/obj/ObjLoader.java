@@ -1,4 +1,4 @@
-com.ultreon.mods.myron.impl.client.obj;
+package com.ultreon.mods.myron.impl.client.obj;
 
 import com.google.gson.*;
 import dev.monarkhes.myron.impl.client.Myron;

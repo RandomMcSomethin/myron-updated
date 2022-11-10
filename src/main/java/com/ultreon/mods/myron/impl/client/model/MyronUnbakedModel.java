@@ -1,4 +1,4 @@
-com.ultreon.mods.myron.impl.client.model;
+package com.ultreon.mods.myron.impl.client.model;
 
 import com.mojang.datafixers.util.Pair;
 import de.javagl.obj.Obj;

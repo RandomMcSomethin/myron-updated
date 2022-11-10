@@ -1,4 +1,4 @@
-com.ultreon.mods.myron.impl.client;
+package com.ultreon.mods.myron.impl.client;
 
 import de.javagl.obj.*;
 import dev.monarkhes.myron.impl.client.model.MyronMaterial;
