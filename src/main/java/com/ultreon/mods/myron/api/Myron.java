@@ -1,6 +1,6 @@
 package com.ultreon.mods.myron.api;
 
-import dev.monarkhes.myron.impl.mixin.BakedModelManagerAccessor;
+import com.ultreon.mods.myron.impl.mixin.BakedModelManagerAccessor;
 import net.fabricmc.fabric.api.renderer.v1.mesh.Mesh;
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.render.model.BakedModel;
@@ -25,6 +25,6 @@ public class Myron {
     }
 
     public static @Nullable Mesh load(Identifier modelPath, Function<SpriteIdentifier, Sprite> textureGetter, ModelBakeSettings bakeSettings, boolean isBlock) {
-        return dev.monarkhes.myron.impl.client.Myron.load(modelPath, textureGetter, bakeSettings, isBlock);
+        return com.ultreon.mods.myron.impl.client.Myron.load(modelPath, textureGetter, bakeSettings, isBlock);
     }
 }

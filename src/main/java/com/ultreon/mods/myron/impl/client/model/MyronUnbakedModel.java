@@ -2,7 +2,7 @@ package com.ultreon.mods.myron.impl.client.model;
 
 import com.mojang.datafixers.util.Pair;
 import de.javagl.obj.Obj;
-import dev.monarkhes.myron.impl.client.Myron;
+import com.ultreon.mods.myron.impl.client.Myron;
 import net.fabricmc.fabric.api.renderer.v1.mesh.Mesh;
 import net.minecraft.client.render.model.BakedModel;
 import net.minecraft.client.render.model.ModelBakeSettings;

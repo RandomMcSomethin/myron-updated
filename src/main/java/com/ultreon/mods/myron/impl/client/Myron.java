@@ -1,9 +1,9 @@
 package com.ultreon.mods.myron.impl.client;
 
 import de.javagl.obj.*;
-import dev.monarkhes.myron.impl.client.model.MyronMaterial;
-import dev.monarkhes.myron.impl.client.obj.MaterialReader;
-import dev.monarkhes.myron.impl.client.obj.ObjLoader;
+import com.ultreon.mods.myron.impl.client.model.MyronMaterial;
+import com.ultreon.mods.myron.impl.client.obj.MaterialReader;
+import com.ultreon.mods.myron.impl.client.obj.ObjLoader;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;

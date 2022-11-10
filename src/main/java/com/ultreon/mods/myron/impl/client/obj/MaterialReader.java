@@ -1,6 +1,6 @@
 package com.ultreon.mods.myron.impl.client.obj;
 
-import dev.monarkhes.myron.impl.client.model.MyronMaterial;
+import com.ultreon.mods.myron.impl.client.model.MyronMaterial;
 import net.fabricmc.fabric.api.renderer.v1.material.BlendMode;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.math.Direction;
